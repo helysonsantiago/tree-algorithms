@@ -14,7 +14,7 @@ class AvlTree {
     this.root = null;
   }
 
-  getHeight = (node) => {
+  getHeight = (node)=>{
     return node ? node.height : 0;
   };
 
@@ -55,7 +55,7 @@ class AvlTree {
   };
 
 
-  getHeightOfTree(node) {
+  getHeightOfTree = (node) =>{
     if (node === null) {
       return -1; // Altura de um nó vazio é -1.
     }
