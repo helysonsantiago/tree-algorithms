@@ -1,7 +1,9 @@
 # Algoritmos de Árvores
 
-Este repositório contém implementações de algoritmos relacionados a árvores. As árvores são estruturas de dados amplamente utilizadas em ciência da computação e têm várias aplicações, incluindo algoritmos de pesquisa, estruturas de banco de dados e muito mais.
+Este repositório contém implementações de algoritmos relacionados a árvores. As árvores são estruturas de dados amplamente utilizadas em ciência da computação e têm várias aplicações, incluindo algoritmos de pesquisa, estruturas de banco de dados e muito mais.  
 
+
+![](https://pythonhelp.files.wordpress.com/2015/01/image04.gif)
 ## Estruturas de Árvores Implementadas
 
 - Árvore Binária de Busca (BST)
@@ -21,7 +23,6 @@ As implementações estão disponíveis nas seguintes linguagens de programaçã
 - E outras...
 
 ## Como Usar
-
 Cada diretório contém implementações dos algoritmos de árvores na linguagem correspondente. Você pode explorar os diretórios individuais para ver o código-fonte e exemplos de uso.
 
 ## Contribuições
